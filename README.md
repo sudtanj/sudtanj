@@ -28,6 +28,11 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWC4nFfnJWMXuQ8R0lscd4lfbruqzPArPmhDmMNXykfA&s" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://w7.pngwing.com/pngs/358/849/png-transparent-postgresql-database-logo-database-symbol-blue-text-logo-thumbnail.png" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+<img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_cloud_logo_icon_159333.png" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtmvJ6J8QQ2pZzsNdRFLpfKw6TQKpa40fi5v-ULWl7Q&sg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI6BAlceEl2MNoXmTaVKgACPbcsTDmltpMeuk3zCEOMQ&s" title="Elastic" alt="Elastic" width="40" height="40"/>&nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgjxDwlHSal7rkNZua5gkuT7iEwJ2yk1_V4RD3dGNTJw&s" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+<img src="https://i1.wp.com/mlinproduction.com/wp-content/uploads/2019/04/kubernetes_logo.png?fit=730%2C389&ssl=1" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
 </p>
 
 
