@@ -11,6 +11,12 @@
 - ⚡ In my free time, I love exploring the latest tech and financial articles and staying updated with emerging technologies and best practices.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Sudono-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sudtanj)
 
+### 🔥 &nbsp; My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sudtanj&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudtanj&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ![](https://komarev.com/ghpvc/?username=sudtanj)
 
