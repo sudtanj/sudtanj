@@ -1,5 +1,6 @@
 <p align="center"> 
 <a href="https://www.linkedin.com/in/sudtanj"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.upwork.com/workwith/sudtanj"><img src="https://www.techjunkie.com/wp-content/uploads/2019/08/How-to-send-a-message-on-Upwork.jpg" title="Upwork" alt="Upwork" width="80" height="40"/></a>
 </p>
 
 ### 👨‍💻 &nbsp;About Me :
@@ -10,7 +11,7 @@
 - ✍️ I also enjoy doing freelancing work and open source work to broaden my experiences, and best practices.
 - ⚡ In my free time, I love exploring the latest tech and financial articles and staying updated with emerging technologies and best practices.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Sudono-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sudtanj)
-- 🤝 Hire me on: <a href="https://www.upwork.com/workwith/sudtanj"><img src="https://www.techjunkie.com/wp-content/uploads/2019/08/How-to-send-a-message-on-Upwork.jpg" title="Upwork" alt="Upwork" width="80" height="40"/></a>
+- 🤝 Hire me on: <a href="https://www.upwork.com/workwith/sudtanj"><img src="https://www.techjunkie.com/wp-content/uploads/2019/08/How-to-send-a-message-on-Upwork.jpg" title="Upwork" alt="Upwork" width="70" height="30"/></a>
 
 ### 🔥 &nbsp; My Stats :
 
