@@ -1,17 +1,3 @@
-<p align="center"> 
-  <a href="https://www.linkedin.com/in/sudtanj">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-  <a href="https://www.upwork.com/workwith/sudtanj">
-    <img src="https://www.techjunkie.com/wp-content/uploads/2019/08/How-to-send-a-message-on-Upwork.jpg" title="Upwork" alt="Upwork" width="80" height="40"/>
-  </a>
-  <a href="https://buymeacoffee.com/sudtanj">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20Me%20a%20Coffee&emoji=&slug=sudtanj&button_colour=FFDD00&font_colour=000000&font_family=Cookie" title="Buy Me a Coffee" alt="Buy Me a Coffee" width="150" height="50"/>
-  </a>
-</p>
-
----
-
 ### 👋 Welcome!
 
 I'm **Sudono Tanjung**, a passionate and experienced Back End Engineer from **Indonesia 🇮🇩**, specializing in scalable and high-performance applications. With over **5 years of experience** in the software development field, I specialize in:
@@ -75,7 +61,14 @@ I’m currently contributing to the engineering team at **Amartha**, where I’m
   [LinkedIn](https://www.linkedin.com/in/sudtanj)
 
 ---
+### Sponsor My Work
+<p align="center"> 
+  <a href="https://buymeacoffee.com/sudtanj">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20Me%20a%20Coffee&emoji=&slug=sudtanj&button_colour=FFDD00&font_colour=000000&font_family=Cookie" title="Buy Me a Coffee" alt="Buy Me a Coffee" width="150" height="50"/>
+  </a>
+</p>
 
+---
 ### 📊 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=sudtanj)
