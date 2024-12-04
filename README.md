@@ -1,74 +1,92 @@
-### 👋 Welcome!
+# 👋 Hi, I’m **Sudono Tanjung**  
+🚀 **Back End Engineer | Tech Enthusiast | Open-Source Contributor**  
+🌏 **From Indonesia 🇮🇩 | Empowering Financial Inclusion**
 
-I'm **Sudono Tanjung**, a passionate and experienced Back End Engineer from **Indonesia 🇮🇩**, specializing in scalable and high-performance applications. With over **5 years of experience** in the software development field, I specialize in:
+---
 
-- **Languages:** **Node.js (Typescript)**, **Golang**
+## 🔥 About Me
+
+💻 With **5+ years of experience**, I specialize in building **scalable, high-performance back-end systems** using:  
+- **Languages:** **Node.js (TypeScript)**, **Golang**  
 - **Databases:** **PostgreSQL**, **MySQL**, **MongoDB**
 
-I’m currently contributing to the engineering team at **Amartha**, where I’m building systems for **loan origination** and **NPL scoring**.
-
-- 💼 **Currently at Amartha:** Developing financial systems that improve financial inclusion.
-- 📈 **Freelancer on Upwork:** Helping businesses digitally transform, building microservices, and more. [Check my Upwork profile](https://www.upwork.com/workwith/sudtanj).
-- 🌱 **Always Learning:** Exploring emerging technologies, contributing to open-source, and sharing insights on **generic programming**.
-- 📫 **Let's Connect:** You can reach out on [LinkedIn](https://www.linkedin.com/in/sudtanj) or [Upwork](https://www.upwork.com/workwith/sudtanj).
+👨‍💼 **Currently @Amartha:** I’m developing systems for **loan origination** and **NPL scoring**, creating a positive impact in financial inclusion.  
+💡 **Freelance Opportunities:** Let’s collaborate on impactful projects! Reach out to me on [LinkedIn](https://www.linkedin.com/in/sudtanj).  
+🌱 **Life-long Learner:** Passionate about **generic programming** and exploring emerging technologies.  
 
 ---
 
-### 🔥 GitHub Stats
+## 🔗 Let's Connect  
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sudtanj&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudtanj&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+- 💼 **LinkedIn:** [linkedin.com/in/sudtanj](https://www.linkedin.com/in/sudtanj)  
+- 📫 **Email:** sudtanj[dot]business[at]gmail[dot]com  
 
 ---
 
-### 🛠 My Tech Stack
+## 💼 Experience
+
+### **Back End Engineer** - [Amartha](https://www.amartha.com/)  
+**Feb 2023 – Present**  
+- Built and enhanced the **Loan Origination System**.  
+- Created systems for **NPL scoring** and **onboarding processes**.  
+- Led training sessions on **generic programming**.  
+*Tech Stack:* **Golang**, **PostgreSQL**, **Redis**, **Google Cloud**
+
+### **Senior Backend Engineer** - Klikdaily  
+**Feb 2022 – Jan 2023**  
+- Transitioned from a **monolith** to **microservices architecture**.  
+- Mentored team members on best practices and emerging technologies.  
+*Tech Stack:* **TypeScript**, **MongoDB**, **Vue.js**
+
+### **Back End Developer** - Klikdaily  
+**Feb 2020 – Feb 2022**  
+- Created digital services, such as **payment processing** and **logistics features**.  
+- Developed a **POS MVP** in under 2 weeks.  
+*Tech Stack:* **Node.js**, **MySQL**
+
+### **Back End Developer** - Wave Consulting Indonesia  
+**Jul 2019 – Feb 2020**  
+- Delivered back-end solutions for **promotional games** and **educational platforms**.  
+*Tech Stack:* **TypeScript**, **MongoDB**, **MySQL**
+
+---
+
+## 🛠 My Tech Stack
 
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/golang/golang-original.svg" title="Golang" alt="Golang" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" title="Typescript" alt="Typescript" width="40" height="40"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Tg7wDW153OYRe1dx7lT3jIrc2YJYC0AsrPuS5IPcyw&s" title="Golang" alt="Golang" width="40" height="40"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWC4nFfnJWMXuQ8R0lscd4lfbruqzPArPmhDmMNXykfA&s" title="MySQL" alt="MySQL" width="40" height="40"/>
-  <img src="https://w7.pngwing.com/pngs/358/849/png-transparent-postgresql-database-logo-database-symbol-blue-text-logo-thumbnail.png" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" title="Firebase" alt="Firebase" width="40" height="40"/>
-  <img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_cloud_logo_icon_159333.png" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtmvJ6J8QQ2pZzsNdRFLpfKw6TQKpa40fi5v-ULWl7Q&sg" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI6BAlceEl2MNoXmTaVKgACPbcsTDmltpMeuk3zCEOMQ&s" title="Elastic" alt="Elastic" width="40" height="40"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgjxDwlHSal7rkNZua5gkuT7iEwJ2yk1_V4RD3dGNTJw&s" title="Docker" alt="Docker" width="40" height="40"/>
-  <img src="https://i1.wp.com/mlinproduction.com/wp-content/uploads/2019/04/kubernetes_logo.png?fit=730%2C389&ssl=1" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>
 </p>
 
 ---
 
-### 💼 Experience
+## 🔥 GitHub Stats  
 
-- **Back End Engineer** - Amartha (Feb 2023 - Present)  
-  Building a loan origination system, enhancing onboarding processes, and introducing **generic programming** sessions. Technologies: **Golang**, **PostgreSQL**, **Redis**, **Google Cloud**.  
-  [LinkedIn](https://www.linkedin.com/in/sudtanj)
-
-- **Senior Backend Engineer** - Klikdaily (Feb 2022 - Jan 2023)  
-  Led the transition from a monolithic to microservices architecture. Technologies: **Typescript**, **MongoDB**, **VueJS**.  
-  [LinkedIn](https://www.linkedin.com/in/sudtanj)
-
-- **Back End Developer** - Klikdaily (Feb 2020 - Feb 2022)  
-  Developed digital services, including payment processing and logistics features. Key achievement: Created a **POS MVP** in under 2 weeks.  
-  [LinkedIn](https://www.linkedin.com/in/sudtanj)
-
-- **Back End Developer** - Wave Consulting Indonesia (Jul 2019 - Feb 2020)  
-  Delivered backend solutions for promotional games and educational platforms. Technologies: **Typescript**, **MongoDB**, **MySQL**.  
-  [LinkedIn](https://www.linkedin.com/in/sudtanj)
-
----
-### Sponsor My Work
-<p align="center"> 
-  <a href="https://buymeacoffee.com/sudtanj">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20Me%20a%20Coffee&emoji=&slug=sudtanj&button_colour=FFDD00&font_colour=000000&font_family=Cookie" title="Buy Me a Coffee" alt="Buy Me a Coffee" width="150" height="50"/>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=sudtanj&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudtanj&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
 ---
-### 📊 Profile Views
 
-![](https://komarev.com/ghpvc/?username=sudtanj)
+## 💙 Support My Work
+
+If you find my work helpful, consider supporting me:  
+[![PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/sudtanj)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=sudtanj&color=blue&style=flat)
