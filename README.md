@@ -32,13 +32,13 @@
 - Led training sessions on **generic programming**.  
 *Tech Stack:* **Golang**, **PostgreSQL**, **Redis**, **Google Cloud**
 
-### **Senior Backend Engineer** - Klikdaily  
+### **Senior Backend Engineer** - [Klikdaily](https://klikdaily.io/)  
 **Feb 2022 – Jan 2023**  
 - Transitioned from a **monolith** to **microservices architecture**.  
 - Mentored team members on best practices and emerging technologies.  
 *Tech Stack:* **TypeScript**, **MongoDB**, **Vue.js**
 
-### **Back End Developer** - Klikdaily  
+### **Back End Developer** - [Klikdaily](https://klikdaily.io/)  
 **Feb 2020 – Feb 2022**  
 - Created digital services, such as **payment processing** and **logistics features**.  
 - Developed a **POS MVP** in under 2 weeks.  
