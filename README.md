@@ -70,9 +70,7 @@
 ## 🔥 GitHub Stats  
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=sudtanj&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <a href="http://www.github.com/sudtanj"><img src="https://github-readme-stats.vercel.app/api?username=sudtanj&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="sudtanj's GitHub stats" /></a>
 </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -89,7 +87,6 @@ If you find my work helpful, consider supporting me:
 [![PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/sudtanj)  
 
 ### Donate Bitcoin:  
-<img src="https://i.imgur.com/tlwaL97.png" alt="Bitcoin QR Code" width="350"/>  
 **Bitcoin Address:** `32Ja5bcaAAYXFjKCRmcYe3SM2RsSUCmXtQ`
 
 ---
