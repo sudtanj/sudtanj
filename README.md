@@ -19,7 +19,8 @@
 ## 🔗 Let's Connect  
 
 - 💼 **LinkedIn:** [linkedin.com/in/sudtanj](https://www.linkedin.com/in/sudtanj)  
-- 📫 **Email:** sudtanj[dot]business[at]gmail[dot]com  
+- 📫 **Email:** sudtanj[dot]business[at]gmail[dot]com
+- **Discord** https://discordapp.com/users/sudtanj
 
 ---
 
