@@ -1,0 +1,56 @@
+name: Generate ATS CV
+
+on:
+  workflow_dispatch:
+    inputs:
+      input_path:
+        description: "Path to the LinkedIn PDF export in the repo"
+        required: false
+        default: "resume-input/profile.pdf"
+      target_role:
+        description: "Target role to note on the CV (optional)"
+        required: false
+        default: ""
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install WeasyPrint system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            libpango-1.0-0 libpangocairo-1.0-0 libgdk-pixbuf2.0-0 \
+            libffi-dev libcairo2 shared-mime-info fonts-liberation
+
+      - name: Install Python dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Verify input file exists
+        run: |
+          if [ ! -f "${{ inputs.input_path }}" ]; then
+            echo "::error::Input PDF not found at '${{ inputs.input_path }}'. Commit your LinkedIn export there first (see resume-input/README.md)."
+            exit 1
+          fi
+
+      - name: Generate ATS-optimized CV
+        run: |
+          python3 scripts/generate_ats_cv.py \
+            "${{ inputs.input_path }}" \
+            "output/ats-cv.pdf" \
+            "${{ inputs.target_role }}"
+
+      - name: Upload ATS CV artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ats-cv
+          path: output/ats-cv.pdf
+          retention-days: 30
